@@ -18,9 +18,9 @@ export default function ViwePage() {
       queryFn:()=> fetchProuduct(id),
     });
      if (isLoading) return (
-      <div>
-        <Spinner />
-      </div>
+   <div className='flex justify-center items-center'>
+    <Spinner />
+  </div>
     );
       if (isError) return <p>Error: {error.message}</p>;
       
