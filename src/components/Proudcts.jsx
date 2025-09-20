@@ -18,7 +18,7 @@ export default function Proudcts() {
       queryFn: fetchProuducts,
     });
  if (isLoading) return (
-  <div>
+<div className='flex justify-center items-center'>
     <Spinner />
   </div>
 );
