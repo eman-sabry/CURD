@@ -39,7 +39,7 @@ const handelSubmit=(values)=>{
   return (
     <div className=" flex flex-col p-10 justify-center px-40">
         <h1 className="text-2xl text-center font-bold">
-            Add Prouduct page
+            Add products page
         </h1>
       <Formik initialValues={initialValues} onSubmit={handelSubmit}  >
 {
