@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Bluetooth Headphones",
+      "price": 300,
+      "category": "Electronics",
+      "id": "14"
+    },
+    {
+      "name": "Graphic T-Shirt",
+      "price": 140,
+      "category": "Clothing",
+      "id": "15"
+    },
+    {
+      "name": "wmo",
+      "price": 1000,
+      "category": "q",
+      "id": "7046"
+    },
+    {
+      "id": "7bc8",
+      "name": "wmo",
+      "price": 98,
+      "category": "q"
+    },
+    {
+      "id": "eb56",
+      "name": "wmo",
+      "price": 98,
+      "category": "q"
+    },
+    {
+      "id": "bd75",
+      "name": "hi",
+      "price": 30,
+      "category": "e"
+    },
+    {
+      "id": "2ee0",
+      "name": "hi",
+      "price": 400,
+      "category": "e"
+    }
+  ]
+}
